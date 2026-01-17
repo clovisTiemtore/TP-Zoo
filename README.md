@@ -1,4 +1,4 @@
-# TP-Zoo : Gestion de Parc Animalier
+# TP-Zoo :
 
 Ce projet en C++ est une simulation de gestion de zoo conçue pour mettre en pratique les piliers de la **Programmation Orientée Objet (POO)**. Il permet de manipuler différentes espèces animales à travers une structure hiérarchique rigoureuse.
 
